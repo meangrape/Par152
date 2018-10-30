@@ -11,3 +11,5 @@ Here, I've collected a patch that supplies `autoconf` functionality by [Nelson H
 as well as a patch by Jérôme Pouiller that handles multibyte characters.
 
 I haven't added any new functionality, this is just a matter of convenience for me.
+
+You do the standard ./configure; make; make install dance.
