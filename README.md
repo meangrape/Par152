@@ -1,5 +1,5 @@
-Par
-===
+Par 1.52
+======== 
 
 [Par](http://www.nicemice.net/par/) is a text formatter written by Adam M. Costello.
 
